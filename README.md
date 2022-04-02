@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raizarocha
-- 🌱 I’m currently learning Software Development at Trybe
+- 🌱 I’m currently learning Web Development at Trybe
 - 📫 How to reach me: raizarocha8@gmail.com
 
 <!---
