@@ -1,4 +1,4 @@
-- 👋 Olá, me chamo @raizarocha
+- 👋 Olá, me chamo Raíza Rocha
 - 🌱 Atualmente estudando Desenvolvimento Web na Trybe
 - 📫 Contato: raizarocha8@gmail.com
 
