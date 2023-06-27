@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo Raíza Rocha
-- 🌱 Atualmente estudando Desenvolvimento Web na Trybe
+- 🌱 Sou pessoa Desenvolvedora Full Stack
 
-- 👩🏽‍💻 Hard Skills: GIT, GITHUB, JAVASCRIPT, HTML, CSS, REACT, NODE.JS, MYSQL, TYPESCRIPT, DOCKER, POO, MONGO DB
+- 👩🏽‍💻 Hard Skills: GIT, GITHUB, JAVASCRIPT, HTML, CSS, REACT, NODE.JS, MYSQL, TYPESCRIPT, DOCKER, POO, MONGO DB, PYTHON
 - 👥 Soft Skills: Trabalho em equipe, Facilidade de aprendizagem, Adaptação, Agilidade, Responsabilidade, Empatia, Comprometimento.
 
 <!---
