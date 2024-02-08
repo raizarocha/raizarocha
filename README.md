@@ -7,7 +7,8 @@ Meu nome é Raíza Rocha, sou formada no curso de Desenvolvimento Web Full Stack
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiza-rocha/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:raizarocha8@gmail.com)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raizarocha&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## Git Status
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raizarocha&layout=compact&theme=rose_pine)
 
 ## Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,10 +31,10 @@ Meu nome é Raíza Rocha, sou formada no curso de Desenvolvimento Web Full Stack
 
 
 ## Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raizarocha&repo=lessons-learned-project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/raizarocha/lessons-learned-project)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raizarocha&repo=pixels-art-project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/raizarocha/pixels-art-project)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raizarocha&repo=mongodb-commerce-project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/raizarocha/mongodb-commerce-project)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raizarocha&repo=car-shop-project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/raizarocha/car-shop-project)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raizarocha&repo=lessons-learned-project&theme=rose_pine)](https://github.com/raizarocha/lessons-learned-project)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raizarocha&repo=pixels-art-project&theme=rose_pine)](https://github.com/raizarocha/pixels-art-project)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raizarocha&repo=mongodb-commerce-project&theme=rose_pine)](https://github.com/raizarocha/mongodb-commerce-project)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raizarocha&repo=car-shop-project&theme=rose_pine)](https://github.com/raizarocha/car-shop-project)
 
 
 <!---
