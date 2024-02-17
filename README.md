@@ -31,6 +31,8 @@ Meu nome é Raíza Rocha, sou formada no curso de Desenvolvimento Web Full Stack
 
 
 ## Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raizarocha&repo=dio-detona-ralph-game&theme=rose_pine)](https://github.com/raizarocha/dio-detona-ralph-game)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raizarocha&repo=dio-emoji-memory-game&theme=rose_pine)](https://github.com/raizarocha/dio-emoji-memory-game)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raizarocha&repo=lessons-learned-project&theme=rose_pine)](https://github.com/raizarocha/lessons-learned-project)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raizarocha&repo=pixels-art-project&theme=rose_pine)](https://github.com/raizarocha/pixels-art-project)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=raizarocha&repo=mongodb-commerce-project&theme=rose_pine)](https://github.com/raizarocha/mongodb-commerce-project)
